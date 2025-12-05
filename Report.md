@@ -91,6 +91,8 @@ Here are the primary sources used in this project:
     Maas, A. L., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011, June). *Learning word vectors for sentiment analysis*. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies-Volume 1 (pp. 142-150). Association for Computational Linguistics.
 
     *Available via*: [ACLweb](https://aclanthology.org/P11-1015/)
+    
+    *Direct link*: https://www.tensorflow.org/datasets/catalog/imdb_reviews
 
 *   **TensorFlow Datasets Version**:
 
