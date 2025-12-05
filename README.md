@@ -55,7 +55,7 @@ pip install tensorflow tensorflow-datasets transformers scikit-learn pandas matp
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/imdb-sentiment-hybrid.git](https://github.com/yourusername/imdb-sentiment-hybrid.git)
+    git clone https://github.com/Ezana-Fekadu/Hybrid-Sentiment-Analyzer.git
     ```
 2.  **Open the Notebook:**
     Launch `Hybrid_Sentiment_Analysis.ipynb` in Jupyter Notebook or Google Colab.
